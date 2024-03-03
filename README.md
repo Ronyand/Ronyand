@@ -1,9 +1,8 @@
 ### Hi Everyone✋🏼 I'm Rony
 
 - 🔭 I’m currently working on Logistics Projects
-- 🌱 I’m currently learning about Python and ABAP
-- 🤔 I’m looking for help with Python and ABAP projects
-- 😄 Pronouns: He/ His
+- 🌱 I’m currently learning about data science
+- 🤔 I’m looking for help with Python
 
 <div>
   <a href="https://github.com/Ronyand">
